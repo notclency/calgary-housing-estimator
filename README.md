@@ -63,7 +63,7 @@ The estimation logic is derived from a **Decision Tree Regressor** trained on th
 
 | Estimator Dashboard | Data Insights |
 |:---:|:---:|
-| view at http://localhost:8080/projects/calgary-housing |
+| view at https://clencytabe.com/projects/calgary-housing |
 
 ---
 
