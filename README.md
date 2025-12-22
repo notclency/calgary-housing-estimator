@@ -7,7 +7,7 @@
 
 A machine learning project and interactive web application that predicts 2024 property assessments in Calgary using public city data. The project features advanced data cleaning techniques (Contextual Imputation) and an interactive dashboard for real-time value estimation.
 
-**[🌐 View Live Demo](https://clencytabe.vercel.app/projects/calgary-housing)**
+**[🌐 View Live Demo](https://clencytabe.com/projects/calgary-housing)**
 
 ---
 
